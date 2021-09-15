@@ -1,0 +1,6 @@
+COMO ASSIM VOCÊ NÃO CONHECE O CLOVÃO??
+Realmente isso é um problema grave!
+
+Se você é um usuário de discord e tem um servidor com seus amigos, considere convidar o clovão (BOT) pra te ajudar a manter o chat ativo, tocar músicas e te ajudar com algumas funções administrativas!
+
+https://discord.com/api/oauth2/authorize?client_id=665296972785385482&permissions=8&scope=bot

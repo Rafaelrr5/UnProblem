@@ -1,0 +1,25 @@
+dicas para melhorar o desempenho da maquina em geral
+
+Primeiramente, agora com o gerenciador de tarefas que o programa abriu pra você, encerre programas QUE VOCÊ CONHEÇA, como jogos abertos ou guias abertas para ajudar o computador a esfriar um pouco. Se você não se sente seguro ao fazer isso, siga para as dicas abaixo.
+
+1. Ajustar configurações visuais
+
+Para alterar suas configurações visuais, pesquise no menu WINDOWS "exibir configurações avançadas do sistema";
+
+Entre na categoria "Desempenho";
+
+Ajustar para obter um melhor desempenho: você pode marcar essa opção para melhorar o desempenho de seu computador, desabilitando todos os efeitos visuais;
+
+Personalizar: com essa opção você pode personalizar suas configurações visuais; 
+
+2. Desativar aplicativos de inicialização
+
+No Menu WINDOWS pesquise "Aplicativos de inicialização";
+
+Desative os que você não usa regurlamente ou nunca;
+
+3. Desativar os Efeitos de transparência
+
+No Menu WINDOWS pesquise "Mostrar transparência no windows"
+
+Desative a opção "Efeitos de Transparência"

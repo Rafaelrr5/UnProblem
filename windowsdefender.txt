@@ -1,0 +1,8 @@
+Pesquise por powershell no menu WINDOWS
+
+Clique nele com o botão direito e execute como administrador
+
+Copie e cole esse comando:
+Set-MpPreference -ScanAvgCPULoadFactor 25
+
+Pronto! Seu Windows Defender agora estará usando menos memória da sua máquina. :)
